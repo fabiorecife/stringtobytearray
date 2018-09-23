@@ -1,0 +1,18 @@
+{
+  "name": "stringtobytearray",
+  "version": "1.0.0",
+  "description": "StringToByteArray",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Fabio Almeida",
+    "email": "fabiorecife@gmail.com",
+    "url": "https://github.com/fabiorecife"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}

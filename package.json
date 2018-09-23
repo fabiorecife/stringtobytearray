@@ -1,5 +1,5 @@
 {
-  "name": "stringtobytearray",
+  "name": "@fabioalmeida/stringtobytearray",
   "version": "1.0.0",
     "description": "StringToByteArray",
   "main": "index.js",

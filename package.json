@@ -1,7 +1,7 @@
 {
   "name": "@fabioalmeida/stringtobytearray",
   "version": "1.0.0",
-    "description": "StringToByteArray",
+  "description": "StringToByteArray",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -17,6 +17,6 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^27.1.0"
   }
 }
